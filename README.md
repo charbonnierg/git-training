@@ -4,6 +4,8 @@ Mise à jour de l'introduction.
 
 ## Première section
 
+C'est un nouveau changement
+
 ### Titre niveau 3
 
 ## Deuxième section
