@@ -1,5 +1,7 @@
 # An example of README file
 
+Mise à jour de l'introduction.
+
 ## Première section
 
 ### Titre niveau 3
